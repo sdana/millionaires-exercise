@@ -1,0 +1,11 @@
+C:\Users\Seth\Workspace\exercises\linq-millionaires\bin\Debug\netcoreapp2.1\linq-millionaires.deps.json
+C:\Users\Seth\Workspace\exercises\linq-millionaires\bin\Debug\netcoreapp2.1\linq-millionaires.runtimeconfig.json
+C:\Users\Seth\Workspace\exercises\linq-millionaires\bin\Debug\netcoreapp2.1\linq-millionaires.runtimeconfig.dev.json
+C:\Users\Seth\Workspace\exercises\linq-millionaires\bin\Debug\netcoreapp2.1\linq-millionaires.dll
+C:\Users\Seth\Workspace\exercises\linq-millionaires\bin\Debug\netcoreapp2.1\linq-millionaires.pdb
+C:\Users\Seth\Workspace\exercises\linq-millionaires\obj\Debug\netcoreapp2.1\linq-millionaires.csprojAssemblyReference.cache
+C:\Users\Seth\Workspace\exercises\linq-millionaires\obj\Debug\netcoreapp2.1\linq-millionaires.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Workspace\exercises\linq-millionaires\obj\Debug\netcoreapp2.1\linq-millionaires.AssemblyInfoInputs.cache
+C:\Users\Seth\Workspace\exercises\linq-millionaires\obj\Debug\netcoreapp2.1\linq-millionaires.AssemblyInfo.cs
+C:\Users\Seth\Workspace\exercises\linq-millionaires\obj\Debug\netcoreapp2.1\linq-millionaires.dll
+C:\Users\Seth\Workspace\exercises\linq-millionaires\obj\Debug\netcoreapp2.1\linq-millionaires.pdb
